@@ -7,7 +7,9 @@ export const Hero = () => {
         <article>
           <p className="font-semibold text-5xl">
             Penetration Testing for <br />
-            <p className="mt-8">Fast-Growing SaaS Companies.</p>
+          </p>
+          <p className="font-semibold text-5xl mt-8">
+            Fast-Growing SaaS Companies.
           </p>
           <a
             type="button"

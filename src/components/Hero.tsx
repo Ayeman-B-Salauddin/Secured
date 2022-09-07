@@ -19,7 +19,10 @@ export const Hero = () => {
             BOOK A DEMO
           </a>
         </article>
-        <img className="h-80 w-1/3 -mt-20" src="../assets/ni.png" />
+        <img
+          className="h-80 w-1/3 -mt-20"
+          src="https://i.ibb.co/WH49LGJ/ni.png"
+        />
       </section>
       <section className="w-full flex flex-col justify-center items-center">
         <p className="mt-5 font-semibold text-slate-600 text-md">

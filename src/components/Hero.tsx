@@ -4,15 +4,18 @@ export const Hero = () => {
       <section className="container mx-auto h-screen flex justify-between items-center">
         <article>
           <p className="font-semibold text-5xl">
-            Penetration Testing for <br />
+            Incredible Design & Performance
+            <br />
           </p>
-          <p className="font-semibold text-5xl mt-8">
-            Fast-Growing SaaS Companies.
+          <p className="font-semibold text-3xl mt-8">
+            Our machines are designed for excellent performance and high
+            quality. You can experience the power and precise controls at the
+            same time.
           </p>
           <a
             type="button"
             className="mt-10 text-white bg-gradient-to-br from-pink-500 to-orange-400 hover:bg-gradient-to-bl focus:ring-4 focus:outline-none focus:ring-pink-200 dark:focus:ring-pink-800 font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2"
-            href="https://www.softwaresecured.com/"
+            href="https://www.canaweld.com/"
             target="_blank"
             rel="noreferrer"
           >
@@ -20,17 +23,18 @@ export const Hero = () => {
           </a>
         </article>
         <img
-          className="h-80 w-1/3 -mt-20"
-          src="https://i.ibb.co/WH49LGJ/ni.png"
+          className="h-80 w-1/3 -mt-20 rounded-full"
+          src="https://i.ibb.co/tbwPhZ8/pexels-movidagrafica-barcelona-1474993-1.jpg"
         />
       </section>
-      <section className="w-full flex flex-col justify-center items-center">
+      <section className="container mx-auto w-full flex flex-col justify-center items-center">
         <p className="mt-5 font-semibold text-slate-600 text-md">
-          Integrating human-led hacking into agile SDLCs.
+          The Right Choice
         </p>
         <br />
         <p className="mb-5 font-bold text-slate-900 text-4xl">
-          Software Secured supporting security for fast-growing companies.
+          Canaweld manufactures portable, powerful and low energy consumption
+          machines, which are an excellent choice for all applications.
         </p>
       </section>
     </>

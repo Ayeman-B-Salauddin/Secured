@@ -18,12 +18,13 @@ export const Articles = () => {
         </svg>
         <a href="#">
           <h5 className="mb-2 text-2xl font-semibold tracking-tight text-gray-900 dark:text-white">
-            Quality manual testing
+            Multi Process
           </h5>
         </a>
         <p className="mb-3 font-normal text-gray-500 dark:text-gray-400">
-          Combining trained penetration testers with our proprietary testing
-          stack provides the most comprehensive test
+          Multi-Process welders are the perfect fit for any welder in need of a
+          fast, reliable machine for general fabrication. Designed with the
+          farm, auto, and fabrication industries in mind.
         </p>
       </article>
       <article className="p-6 max-w-sm bg-orange-100 rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700">
@@ -43,12 +44,12 @@ export const Articles = () => {
         </svg>
         <a href="#">
           <h5 className="mb-2 text-2xl font-semibold tracking-tight text-gray-900 dark:text-white">
-            Faster security remediation
+            MIG Welding{" "}
           </h5>
         </a>
         <p className="mb-3 font-normal text-gray-500 dark:text-gray-400">
-          Shorten the feedback loop and accelerate vulnerability remediation
-          with new feature testing and fix vertification testing
+          MIG welding machines built with speed and ease of use in mind.
+          Designed with the farm, auto, and production industries in mind.
         </p>
       </article>
       <article className="p-6 max-w-sm bg-orange-100 rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700">
@@ -68,13 +69,14 @@ export const Articles = () => {
         </svg>
         <a href="#">
           <h5 className="mb-2 text-2xl font-semibold tracking-tight text-gray-900 dark:text-white">
-            Central AppSec management
+            TIG Welding{" "}
           </h5>
         </a>
         <p className="mb-3 font-normal text-gray-500 dark:text-gray-400">
-          Manage multiple projects together in Portal for complete visibility
-          over your ongoing and future pentests, your SLAs, reports and pentest
-          certificates
+          When precision and beauty are needed our wide range of TIG welders can
+          give you the control necessary to accomplish professional results on a
+          variety of parent metals. Designed with the marine, aerospace, and
+          medical industries in mind.
         </p>
       </article>
       <article className=" p-6 max-w-sm bg-orange-200 rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700">
@@ -94,16 +96,17 @@ export const Articles = () => {
         </svg>
         <a href="#">
           <h5 className="mb-2 text-2xl font-semibold tracking-tight text-gray-900 dark:text-white">
-            The Portal Platform
+            A Guide to Stud Welding{" "}
           </h5>
         </a>
         <p className="mb-3 font-normal text-gray-500 dark:text-gray-400">
-          Portal is your place to manage pentests, review results, and manage
-          your SLAs. Get notified when tests are upcoming, track vulnerabilities
-          over time, and download your certificates - all in one place.
+          The way in which this welding process works is by joining a metal stud
+          to a metal workpiece by heating up both parts with an arc.
         </p>
         <a
-          href="https://www.softwaresecured.com/portal/"
+          href="https://www.canaweld.com/guide-to-stud-welding/"
+          target="_blank"
+          rel="noreferrer"
           className="inline-flex items-center text-orange-800 hover:underline "
         >
           Discover Portal

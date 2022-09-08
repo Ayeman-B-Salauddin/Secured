@@ -12,7 +12,7 @@ export const Navbar = () => {
           className="ml-6 flex items-center"
         >
           <span className="self-center text-xl font-semibold whitespace-nowrap dark:text-white">
-            Secured
+            Machinery
           </span>
         </a>
         <div className=" hidden w-full md:block md:w-auto" id="navbar-default">

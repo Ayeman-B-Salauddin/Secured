@@ -18,12 +18,13 @@ export const Articles = () => {
         </svg>
         <a href="#">
           <h5 className="mb-2 text-2xl font-semibold tracking-tight text-gray-900 dark:text-white">
-            Quality manual testing
+            Here at 3R Telecom...
           </h5>
         </a>
         <p className="mb-3 font-normal text-gray-500 dark:text-gray-400">
-          Combining trained penetration testers with our proprietary testing
-          stack provides the most comprehensive test
+          we believe that our bespoke software paired with top of the line
+          hardware will help give you the edge in your market sector. Reliable,
+          easy to use and tailor-made to your specification.
         </p>
       </article>
       <article className="p-6 max-w-sm bg-orange-100 rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700">
@@ -43,12 +44,14 @@ export const Articles = () => {
         </svg>
         <a href="#">
           <h5 className="mb-2 text-2xl font-semibold tracking-tight text-gray-900 dark:text-white">
-            Faster security remediation
+            3R's payment solutions...{" "}
           </h5>
         </a>
         <p className="mb-3 font-normal text-gray-500 dark:text-gray-400">
-          Shorten the feedback loop and accelerate vulnerability remediation
-          with new feature testing and fix vertification testing
+          provides you with a leading card processing service for any retail
+          sector. We deliver to our customers: the latest terminal hardware; the
+          most competitive rates in the market and around the clock customer
+          service from our dedicated team.
         </p>
       </article>
       <article className="p-6 max-w-sm bg-orange-100 rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700">
@@ -68,13 +71,14 @@ export const Articles = () => {
         </svg>
         <a href="#">
           <h5 className="mb-2 text-2xl font-semibold tracking-tight text-gray-900 dark:text-white">
-            Central AppSec management
+            3R's payment solutions...{" "}
           </h5>
         </a>
         <p className="mb-3 font-normal text-gray-500 dark:text-gray-400">
-          Manage multiple projects together in Portal for complete visibility
-          over your ongoing and future pentests, your SLAs, reports and pentest
-          certificates
+          provides you with a leading card processing service for any retail
+          sector. We deliver to our customers: the latest terminal hardware; the
+          most competitive rates in the market and around the clock customer
+          service from our dedicated team.
         </p>
       </article>
       <article className=" p-6 max-w-sm bg-orange-200 rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700">
@@ -94,16 +98,17 @@ export const Articles = () => {
         </svg>
         <a href="#">
           <h5 className="mb-2 text-2xl font-semibold tracking-tight text-gray-900 dark:text-white">
-            The Portal Platform
+            3R's payment solutions...{" "}
           </h5>
         </a>
         <p className="mb-3 font-normal text-gray-500 dark:text-gray-400">
-          Portal is your place to manage pentests, review results, and manage
-          your SLAs. Get notified when tests are upcoming, track vulnerabilities
-          over time, and download your certificates - all in one place.
+          provides you with a leading card processing service for any retail
+          sector. We deliver to our customers: the latest terminal hardware; the
+          most competitive rates in the market and around the clock customer
+          service from our dedicated team.
         </p>
         <a
-          href="https://www.softwaresecured.com/portal/"
+          href="#"
           className="inline-flex items-center text-orange-800 hover:underline "
         >
           Discover Portal
